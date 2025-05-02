@@ -1,8 +1,9 @@
-<p align="left">Hello World!!</p>
+<h1 align="left"><u>Hello World!!</u></h1>
 
 ###
 
-<p align="left">This is me Nafizur Rahman Mallick. A learner.</p>
+<p align="left">This is me <b><i>Nafizur Rahman Mallick</i></b>. A learner.</p>
+<p>Will be adding more informations later. Right now I'm learner.</p>
 
 ###
 
